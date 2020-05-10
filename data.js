@@ -21,6 +21,5 @@ const INCARICHI = [
 const RISULTATI_INCARICHI = [
   // DATA, ...PUNTEGGIO_PER_SQ
   ['02 Maggio', '2', '3', '3', '4', '3', '3'],
-];
- ['10 Maggio', '3', '3', '4', '4', '3', '4'],
+  ['10 Maggio', '3', '3', '4', '4', '3', '4'],
 ];
